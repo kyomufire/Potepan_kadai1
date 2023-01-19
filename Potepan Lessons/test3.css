@@ -1,0 +1,20 @@
+.Container {
+  position: relative;
+}
+
+.Header { 
+  padding: 15px 0px;
+  width: 95%;
+  border: 1px solid black;
+  position: absolute;
+  top: 6%;
+  left:2.5%;
+  text-align: center;
+  width: 95%;
+}
+  
+.Background {
+  background-image: url(https://res.cloudinary.com/he3zvdcui/image/upload/v1660718053/Curriculums/css_9/background-image_akdu45.jpg);
+  background-size: cover;
+  height: 750px;
+}
